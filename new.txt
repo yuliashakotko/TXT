@@ -2,6 +2,4 @@
  Last name : Shakotko
  Years : 31 
  Animals : 0
- Salary : 700 $
-
-
+ Salary : 700 uan
