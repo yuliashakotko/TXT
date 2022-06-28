@@ -1,0 +1,7 @@
+ First name : Yuliia
+ Last name : Shakotko
+ Years : 31 
+ Animals : 0
+ Salary : 700 $
+
+
